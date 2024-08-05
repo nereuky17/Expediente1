@@ -1,0 +1,9 @@
+es/cic/curso/ejercicio2/entity/Documento.class
+es/cic/curso/ejercicio2/controller/DocumentoController.class
+es/cic/curso/ejercicio2/service/ExpedienteService.class
+es/cic/curso/ejercicio2/repository/DocumentoRepository.class
+es/cic/curso/ejercicio2/repository/ExpedienteRepository.class
+es/cic/curso/ejercicio2/controller/ExpedienteController.class
+es/cic/curso/ejercicio2/service/DocumentoService.class
+es/cic/curso/ejercicio2/Ejercicio2Application.class
+es/cic/curso/ejercicio2/entity/Expediente.class

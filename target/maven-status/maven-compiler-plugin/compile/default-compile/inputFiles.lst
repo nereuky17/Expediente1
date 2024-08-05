@@ -1,0 +1,11 @@
+/home/curso02/OneDrive/SPRING/expediente/src/main/java/es/cic/curso/ejercicio2/Ejercicio2Application.java
+/home/curso02/OneDrive/SPRING/expediente/src/main/java/es/cic/curso/ejercicio2/configuration/ExpedienteConfiguration.java
+/home/curso02/OneDrive/SPRING/expediente/src/main/java/es/cic/curso/ejercicio2/controller/DocumentoController.java
+/home/curso02/OneDrive/SPRING/expediente/src/main/java/es/cic/curso/ejercicio2/controller/ExpedienteController.java
+/home/curso02/OneDrive/SPRING/expediente/src/main/java/es/cic/curso/ejercicio2/entity/Documento.java
+/home/curso02/OneDrive/SPRING/expediente/src/main/java/es/cic/curso/ejercicio2/entity/Expediente.java
+/home/curso02/OneDrive/SPRING/expediente/src/main/java/es/cic/curso/ejercicio2/repository/DocumentoRepository.java
+/home/curso02/OneDrive/SPRING/expediente/src/main/java/es/cic/curso/ejercicio2/repository/ExpedienteRepository.java
+/home/curso02/OneDrive/SPRING/expediente/src/main/java/es/cic/curso/ejercicio2/service/DocumentoService.java
+/home/curso02/OneDrive/SPRING/expediente/src/main/java/es/cic/curso/ejercicio2/service/ExpedienteService.java
+/home/curso02/OneDrive/SPRING/expediente/src/main/java/es/cic/curso/ejercicio2/service/NoencontradoException.java
